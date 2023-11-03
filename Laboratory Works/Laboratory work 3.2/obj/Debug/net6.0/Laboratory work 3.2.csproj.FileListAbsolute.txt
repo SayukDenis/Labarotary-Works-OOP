@@ -1,0 +1,14 @@
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\bin\Debug\net6.0\Laboratory work 3.2.exe
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\bin\Debug\net6.0\Laboratory work 3.2.deps.json
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\bin\Debug\net6.0\Laboratory work 3.2.runtimeconfig.json
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\bin\Debug\net6.0\Laboratory work 3.2.dll
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\bin\Debug\net6.0\Laboratory work 3.2.pdb
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\obj\Debug\net6.0\Laboratory work 3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\obj\Debug\net6.0\Laboratory work 3.2.AssemblyInfoInputs.cache
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\obj\Debug\net6.0\Laboratory work 3.2.AssemblyInfo.cs
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\obj\Debug\net6.0\Laboratory work 3.2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\obj\Debug\net6.0\Laboratory work 3.2.dll
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\obj\Debug\net6.0\refint\Laboratory work 3.2.dll
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\obj\Debug\net6.0\Laboratory work 3.2.pdb
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\obj\Debug\net6.0\Laboratory work 3.2.genruntimeconfig.cache
+C:\Users\Admin\Programing\Laboratory Works\Laboratory work 3.2\obj\Debug\net6.0\ref\Laboratory work 3.2.dll

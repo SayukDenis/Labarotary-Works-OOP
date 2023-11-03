@@ -1,0 +1,14 @@
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\bin\Debug\net6.0\Laboratory Work 1.exe
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\bin\Debug\net6.0\Laboratory Work 1.deps.json
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\bin\Debug\net6.0\Laboratory Work 1.runtimeconfig.json
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\bin\Debug\net6.0\Laboratory Work 1.dll
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\bin\Debug\net6.0\Laboratory Work 1.pdb
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\obj\Debug\net6.0\Laboratory Work 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\obj\Debug\net6.0\Laboratory Work 1.AssemblyInfoInputs.cache
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\obj\Debug\net6.0\Laboratory Work 1.AssemblyInfo.cs
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\obj\Debug\net6.0\Laboratory Work 1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\obj\Debug\net6.0\Laboratory Work 1.dll
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\obj\Debug\net6.0\refint\Laboratory Work 1.dll
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\obj\Debug\net6.0\Laboratory Work 1.pdb
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\obj\Debug\net6.0\Laboratory Work 1.genruntimeconfig.cache
+C:\Users\Admin\Programing\Laboratory Works\Laboratory Works\obj\Debug\net6.0\ref\Laboratory Work 1.dll

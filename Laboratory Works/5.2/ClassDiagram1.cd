@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_5._2.BaseEntity" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAEAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>BaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_5._2.ConcreteConnector" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABABAABAAAAACCAAAAAAAQAgAAAAAAAAA=</HashCode>
+      <FileName>ConcreteConnector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_5._2.RealEstateAgency" Collapsed="true">
+    <Position X="7.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAEAAAACAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>RealEstateAgency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_5._2.RealEstateBuyer" Collapsed="true">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>RealEstateBuyer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_5._2.RealEstateSeller" Collapsed="true">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAQAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>RealEstateSeller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="_5._2.IConnector" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IConnector.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="_5._2.RequestType" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAQAAAAAABAAAAAAAA=</HashCode>
+      <FileName>RequestType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

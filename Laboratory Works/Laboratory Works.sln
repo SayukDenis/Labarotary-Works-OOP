@@ -1,0 +1,87 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratory Work 1", "Laboratory Works\Laboratory Work 1.csproj", "{0B86F8DB-6B43-4176-8D47-354EC200F376}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratory work 1", "Laboratory work 1", "{C79E9889-DF07-47E7-B8AF-44253F183F52}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratory work 2", "Laboratory work 2", "{F8ACAD6E-3641-4CED-BC55-61F199379455}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratory work 3", "Laboratory work 3", "{E67E9F99-1967-4B62-80D7-55DFFCFC423E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratory work 4", "Laboratory work 4", "{3B014F97-4F75-4817-8935-7B0A9D4D0A8D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Laboratory work 5", "Laboratory work 5", "{58348AAA-F80C-4192-90DD-D7306E792C78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratory work 2", "Laboratory work 1\Laboratory work 2.csproj", "{8F7A283B-CE9B-4B3F-A015-228021363E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratory work 3.1", "Laboratory work 3.1\Laboratory work 3.1.csproj", "{E887650B-FBE9-4FA0-84D7-900F7331F456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratory work 3.2", "Laboratory work 3.2\Laboratory work 3.2.csproj", "{A86148CE-3AEC-47B0-854A-74A3862047D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratory work 4.1", "Laboratory work 4.1\Laboratory work 4.1.csproj", "{EF22982C-8603-4B2D-9290-4356A6F51997}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratory work 4.2", "Laboratory work 4.2\Laboratory work 4.2.csproj", "{CF8A3552-A96F-466D-B0DA-4199F24328F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratory work 5.1", "Laboratory work 5.1\Laboratory work 5.1.csproj", "{31C19175-3D72-49BF-BDAD-E96C6719E8FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratory work 5.2", "5.2\Laboratory work 5.2.csproj", "{F012AA83-6831-4A40-86FB-ADF171878189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B86F8DB-6B43-4176-8D47-354EC200F376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B86F8DB-6B43-4176-8D47-354EC200F376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B86F8DB-6B43-4176-8D47-354EC200F376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B86F8DB-6B43-4176-8D47-354EC200F376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F7A283B-CE9B-4B3F-A015-228021363E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F7A283B-CE9B-4B3F-A015-228021363E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F7A283B-CE9B-4B3F-A015-228021363E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F7A283B-CE9B-4B3F-A015-228021363E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E887650B-FBE9-4FA0-84D7-900F7331F456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E887650B-FBE9-4FA0-84D7-900F7331F456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E887650B-FBE9-4FA0-84D7-900F7331F456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E887650B-FBE9-4FA0-84D7-900F7331F456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A86148CE-3AEC-47B0-854A-74A3862047D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A86148CE-3AEC-47B0-854A-74A3862047D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A86148CE-3AEC-47B0-854A-74A3862047D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A86148CE-3AEC-47B0-854A-74A3862047D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF22982C-8603-4B2D-9290-4356A6F51997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF22982C-8603-4B2D-9290-4356A6F51997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF22982C-8603-4B2D-9290-4356A6F51997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF22982C-8603-4B2D-9290-4356A6F51997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF8A3552-A96F-466D-B0DA-4199F24328F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF8A3552-A96F-466D-B0DA-4199F24328F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF8A3552-A96F-466D-B0DA-4199F24328F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF8A3552-A96F-466D-B0DA-4199F24328F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C19175-3D72-49BF-BDAD-E96C6719E8FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C19175-3D72-49BF-BDAD-E96C6719E8FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C19175-3D72-49BF-BDAD-E96C6719E8FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C19175-3D72-49BF-BDAD-E96C6719E8FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F012AA83-6831-4A40-86FB-ADF171878189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F012AA83-6831-4A40-86FB-ADF171878189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F012AA83-6831-4A40-86FB-ADF171878189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F012AA83-6831-4A40-86FB-ADF171878189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0B86F8DB-6B43-4176-8D47-354EC200F376} = {C79E9889-DF07-47E7-B8AF-44253F183F52}
+		{8F7A283B-CE9B-4B3F-A015-228021363E3B} = {F8ACAD6E-3641-4CED-BC55-61F199379455}
+		{E887650B-FBE9-4FA0-84D7-900F7331F456} = {E67E9F99-1967-4B62-80D7-55DFFCFC423E}
+		{A86148CE-3AEC-47B0-854A-74A3862047D6} = {E67E9F99-1967-4B62-80D7-55DFFCFC423E}
+		{EF22982C-8603-4B2D-9290-4356A6F51997} = {3B014F97-4F75-4817-8935-7B0A9D4D0A8D}
+		{CF8A3552-A96F-466D-B0DA-4199F24328F3} = {3B014F97-4F75-4817-8935-7B0A9D4D0A8D}
+		{31C19175-3D72-49BF-BDAD-E96C6719E8FD} = {58348AAA-F80C-4192-90DD-D7306E792C78}
+		{F012AA83-6831-4A40-86FB-ADF171878189} = {58348AAA-F80C-4192-90DD-D7306E792C78}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D370FD0-B729-4C48-AB05-97888C662153}
+	EndGlobalSection
+EndGlobal
